@@ -26,6 +26,6 @@ class MainActivity : AppCompatActivity() {
 
         println("CHANGE 2 in Experimental branch")
 
-        println("Hello from Your Clone Friend")
+        println("Till this code we are pushing from Experimental branch to master in github")
     }
 }
